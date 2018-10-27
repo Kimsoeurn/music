@@ -4,10 +4,13 @@
 html, body {
   background-color: #fff;
   color: #636b6f;
-  font-family:  'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+  /* font-family:  'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif !important; */
   height: 100vh;
   margin: 0;
 }
+h2 { font-size: 1.5rem !important; margin-top: 10px;}
+h3.artist-name { font-size: 1.5rem; padding-top: 10px;}
+.table-tracks td { vertical-align: middle !important;}
 .col-form-label { text-align: right !important; font-weight: bold;}
 .artist-photo {
       margin: 0 auto;
